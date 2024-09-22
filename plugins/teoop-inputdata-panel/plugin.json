@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/main/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "panel",
+  "name": "Control devices or display data",
+  "id": "trioop-inputdata-panel",
+  "info": {
+    "keywords": ["panel"],
+    "description": "Control devices or display data",
+    "author": {
+      "name": "www.trioop.com"
+    },
+    "logos": {
+      "small": "img/touch.png",
+      "large": "img/touch.png"
+    },
+    "links": [],
+    "screenshots": [],
+    "version": "1.0.0",
+    "updated": "2024-09-16"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=10.0.3",
+    "plugins": []
+  }
+}

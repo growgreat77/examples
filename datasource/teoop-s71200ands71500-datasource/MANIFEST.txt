@@ -1,0 +1,39 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "private",
+  "signedByOrg": "yugong0216",
+  "signedByOrgName": "yugong0216",
+  "rootUrls": [
+    "http://localhost:3000/"
+  ],
+  "plugin": "trioop-s71200ands71500-datasource",
+  "version": "1.0.0",
+  "time": 1726497593970,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "README.md": "375a99e28e0b64965e2e183354a4f08d196bdbfac56539915d0b39b690837e0f",
+    "img/siemens1.png": "21842ab468023e99086424947f005fea160fd20ad08e9ff1ecfe96d5c254f4ed",
+    "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
+    "img/siemens.png": "259d3356252b5f7a66ac919871907bd22a925826cb3ffbb87ae7d7934f6fc58d",
+    "module.js.LICENSE.txt": "23bc7a5445fb62a47d047df48cac98f72cc108bd0dfefb7f4f10212c2b59b431",
+    "plugin.json": "9a303a82588defaf2d8e5ead003c13896be8d2f2b4b133d567750288ca10ced4",
+    "CHANGELOG.md": "aaa78be4710ef41d56ddab1edbd180ef9f9adfea2f293109aae925dc33a1b9b3",
+    "module.js": "5f23c16b1e25a77e68b1c65056a94946c18e5adfd11b968d65f77e444459703b",
+    "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.11
+Comment: https://openpgpjs.org
+
+wrkEARMKAAYFAmboQzoAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm58bIAgkBiCBT4tfUvivNNbnW59tf1z+0sM8BNGjcY93JngYvtni1o02N
+TpWoNsQjxVB9sEVUzjVPbwSaIyIVRnX8J1FBq1oCCQCYfcx227bIar0ADhuW
+8yIpbOhxDQl8n8xOO/tX8IoIMMLtMIcc3r3osGGIFj5qlamNz/9JfXhz3fg/
+2I6s0ndlKw==
+=XNBK
+-----END PGP SIGNATURE-----

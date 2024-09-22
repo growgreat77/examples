@@ -1,0 +1,27 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "datasource",
+  "name": "s71200 and s71500",
+  "id": "trioop-s71200ands71500-datasource",
+  "metrics": true,
+  "streaming": true,
+  "info": {
+    "description": "datasource for siemens s7-1200 and s7-1500,only add one 1200 or one 1500 data source.",
+    "author": {
+      "name": "www.trioop.com"
+    },
+    "keywords": ["datasource"],
+    "logos": {
+      "small": "img/siemens.png",
+      "large": "img/siemens.png"
+    },
+    "links": [],
+    "screenshots": [],
+    "version": "1.0.0",
+    "updated": "2024-09-16"
+  },
+  "dependencies": {
+    "grafanaDependency": "^9.2.5",
+    "plugins": []
+  }
+}

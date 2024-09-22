@@ -1,0 +1,38 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "private",
+  "signedByOrg": "yugong0216",
+  "signedByOrgName": "yugong0216",
+  "rootUrls": [
+    "http://localhost:3000/"
+  ],
+  "plugin": "teoop-smart200-datasource",
+  "version": "1.0.0",
+  "time": 1726496656058,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "README.md": "def169540d39172dfa0a97f6ac220d6fa303034467396de5ed222f0433aa4b1c",
+    "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
+    "img/Smart200.png": "9e814e1646a64acf5a38d8a5c21607f6b14ef2ebc929ce0248fb080212872b22",
+    "module.js.LICENSE.txt": "23bc7a5445fb62a47d047df48cac98f72cc108bd0dfefb7f4f10212c2b59b431",
+    "plugin.json": "2f2050cde813c6f341c45b05dc05de889a7370653d523c0699140f384bf23fe9",
+    "CHANGELOG.md": "ba613d6f914b27dce9ace4d8c0cb074273c9eb6c536d8e7ac24c5ce6ae941fd0",
+    "module.js": "432da727b7260bb598227d0450a54b0478d85a5119a2aaad28e0dc31f03107c6",
+    "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.11
+Comment: https://openpgpjs.org
+
+wrkEARMKAAYFAmboP5AAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm581HAgkBHA19TD4aE9Dh/7filYOCzxBGSY8YIHUKkbHGv8AWXRhYSkCY
+3+1cOt4c9TM1IkxcOVrYGIM6cil0oSnuYNSylVMCCQBAmP9As4+GMiJpjn8Q
+nbdOfRS9JadDUuJkpPEoBfkmnOv80sxqbQEWkeT3OavTJfNDwPrv/lsM1PR8
+AJqDU7W27g==
+=hJBe
+-----END PGP SIGNATURE-----

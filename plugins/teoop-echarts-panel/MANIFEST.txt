@@ -1,0 +1,38 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "private",
+  "signedByOrg": "yugong0216",
+  "signedByOrgName": "yugong0216",
+  "rootUrls": [
+    "http://localhost:3000/"
+  ],
+  "plugin": "trioop-echarts-panel",
+  "version": "1.0.0",
+  "time": 1726495969954,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "README.md": "4fdcfc0e676200fbbc63d86c23eea54f40d9d8c7cdb3a4df6630e2994e269280",
+    "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
+    "img/echarts.png": "e4aaf9127e3e3e116516b83aed8a249d0f59632b8b7bfbe3ce11190f4f68c579",
+    "module.js.LICENSE.txt": "f3c46b9963b7e0a4268e3a0a49a6f2c13277c503d9023bdb221507bff8d9898c",
+    "plugin.json": "9b986acb7278f435d2994b4994b223060b6ea3f21f2a27f98c8fda2a71295df9",
+    "CHANGELOG.md": "aaa78be4710ef41d56ddab1edbd180ef9f9adfea2f293109aae925dc33a1b9b3",
+    "module.js": "7e11f59f83c89807dc63a546c8b27a94590b28792781931a16913d8116cb9abd",
+    "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.11
+Comment: https://openpgpjs.org
+
+wrkEARMKAAYFAmboPOIAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm54ztAgkATj7Ot+CME86HRP0sYnZt4IDrnFqElKKr2z0hqchlBhVkk6ZO
+DBiVlCp3oYGp9hMLBnevUAIUJUp9YbaNyQLhCXkCCQBbllOcZCIR+7GMwMlA
+MAjsHrm2wY3dnwCw+hJcTPYkcbq4vVHvVsxsCthUasuwhiU3yBm3d+FVqzil
+Q8Kel/bIWw==
+=NW/c
+-----END PGP SIGNATURE-----

@@ -1,0 +1,38 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "private",
+  "signedByOrg": "yugong0216",
+  "signedByOrgName": "yugong0216",
+  "rootUrls": [
+    "http://localhost:3000/"
+  ],
+  "plugin": "trioop-modbustcp-datasource",
+  "version": "1.0.0",
+  "time": 1726497237887,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "README.md": "9633ae93fad49fe4a2c7fcfdaeed4264a98bd23d41bcbefb7bc4e261f81c512b",
+    "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
+    "img/modbus.png": "b60ad8efe4f5528ab508fa5946fd71ca4b6ce120681021bf61e4735df9be607b",
+    "module.js.LICENSE.txt": "23bc7a5445fb62a47d047df48cac98f72cc108bd0dfefb7f4f10212c2b59b431",
+    "plugin.json": "381f1cdd4af42876c5d52c203ffaff5f4c3f6fb598d1b34ce4ec88b26e48093f",
+    "CHANGELOG.md": "aaa78be4710ef41d56ddab1edbd180ef9f9adfea2f293109aae925dc33a1b9b3",
+    "module.js": "ef48199687e6d930ec0a8c9948b16d50eb64d276ef135964bb681d326598492a",
+    "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.11
+Comment: https://openpgpjs.org
+
+wrkEARMKAAYFAmboQdYAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm57uEAgkAMuqzmtV6ZhF4xxIc33MvlUfa/GYV84PfUDBaypXGww1FXx9f
+Qjt+1yrQ6XTLQU25jiZnuhIvfHtnSBMHyj3fY/ECCQBdn6Qjqa5O6knMsBk2
+p0nG6ErYNqdN5TTPu0ottamcWxNPNWbJaLTVnqphL04rig8Dk8YGOHXzkHWD
+Sr0ABLL7cg==
+=9NSP
+-----END PGP SIGNATURE-----
